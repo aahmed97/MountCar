@@ -11,4 +11,4 @@ takes less time steps for the car to reach the goal as the number of episodes in
 
 *Updates coming soon*
 
-          Planning to add an animation showing in learning during the experiment
+          Planning to add an animation showing the progress of the car during the experiment
